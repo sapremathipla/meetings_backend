@@ -13,9 +13,14 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^4.21.2"
+    "axios": "^1.8.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "joi": "^17.13.3",
+    "sequelize": "^6.37.5"
   },
   "devDependencies": {
+    "@types/cors": "^2.8.17",
     "@types/express": "^5.0.0",
     "@types/node": "^22.13.4",
     "@types/pg": "^8.11.11",
