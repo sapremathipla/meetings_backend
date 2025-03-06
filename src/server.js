@@ -67,7 +67,7 @@ Meeting.init({
 });
 const router = express_1.default.Router();
 const app = (0, express_1.default)();
-const port = 4000;
+const port = 5000;
 const clientId = "bc5b9a9f-8f73-48a9-80b6-6a8ce4d8e622";
 const clientSecret = "2-Xx~gc0.lW~V61X471gjwiSpC6dgyzR3V";
 const pool = new pg_1.Pool({
