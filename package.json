@@ -17,6 +17,7 @@
     "cors": "^2.8.5",
     "express": "^4.21.2",
     "joi": "^17.13.3",
+    "pg": "^8.13.3",
     "sequelize": "^6.37.5"
   },
   "devDependencies": {
